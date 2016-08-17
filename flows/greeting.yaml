@@ -12,6 +12,7 @@ states:
             - "Hey there! \U0001F604"
             - "Hi! \U0001F604"
             - "Howdy! \U0001F604"
+            - "Hello! \U0001F604"
         return: true
     how_are_you:
         component: meya.random_text
