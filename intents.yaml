@@ -1,4 +1,14 @@
+-   flow: gif
+    intent: meya.keyword
+    settings:
+        keyword: gif
+-   flow: greeting
+    intent: meya.greetings
 -   flow: hello_world
     intent: meya.keyword
     settings:
         keyword: hi
+-   flow: weather
+    intent: meya.keyword
+    settings:
+        keyword: weather

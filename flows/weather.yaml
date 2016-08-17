@@ -1,0 +1,9 @@
+name: weather
+states:
+    get_city:
+        component: meya.input_string
+        properties:
+            text: For which US city would you to know the weather?
+            output: city
+    get_weather:
+        component: weather
